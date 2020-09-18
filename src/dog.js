@@ -1,4 +1,3 @@
-const { isModuleSpecifier } = require("babel-types")
 
 class dog {
     constructor(name){
@@ -9,4 +8,4 @@ class dog {
     }
 }
 
-module.exports = Dog;
+module.exports = dog;
